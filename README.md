@@ -16,6 +16,6 @@ Software Engineering Student & MERN Stack Developer  <br>Learning & building web
 ![](https://github-contributor-stats.vercel.app/api?username=Sarah-SWE&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Sarah-SWE&icon=6&color=6)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Sarah-SWE&icon=1&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
