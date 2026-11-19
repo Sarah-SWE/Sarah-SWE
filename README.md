@@ -1,7 +1,7 @@
 # 💫 About Me:
 Software Engineering Student & MERN Stack Developer  <br>Learning & building web apps<br>Passionate about clean code and creative UI
 
-[![](https://komarev.com/ghpvc/?username=Sarah-SWE&icon=1&color=6)](https://visitcount.itsvg.in)
+[![Hits](https://seeyoufarm.com)](https://seeyoufarm.com)
 
 ## 🌐 Socials:
 <p align="left"> <a href="https://www.github.com/Sarah-SWE" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/sarah-al-mherat" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
