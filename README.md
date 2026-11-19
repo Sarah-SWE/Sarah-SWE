@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineering Student & MERN Stack Developer  <br>Learning & building web apps<br>Passionate about clean code and creative UI
+Software Engineering Student | MERN Stack Developer  <br>Learning & building web apps<br>Passionate about clean code and creative UI
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sarah-SWE&label=Profile%20Views&color=FC86BB&style=for-the-badge)
 
